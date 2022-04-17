@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="initial_score">0</string>
+    <string name="question_1">Constructor name is same as class name</string>
+    <string name="question_2">Interface have full implemented classes</string>
+    <string name="question_3">Try and catch block is necessary in JAVA</string>
+    <string name="question_4">Polymorphism allows you to define different methods with same name</string>
+    <string name="question_5">By default integer variables have garbage value in JAVA</string>
+    <string name="question_6">Abstract classes can be accessed directly without creating objects</string>
+    <string name="question_7">There is no such constructor as default constructor in JAVA</string>
+    <string name="question_8">Multiple Inheritance is commonly used in JAVA</string>
+    <string name="question_9">JVM stands for JAVA Virtual Machine</string>
+    <string name="question_10">Dex code is for running Android apps</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct Answer</string>
+    <string name="incorrect_toast">Incorrect Answer</string>
+</resources>
